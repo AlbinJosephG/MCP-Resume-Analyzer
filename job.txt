@@ -1,0 +1,2 @@
+We are looking for a Machine Learning Engineer with skills in:
+Python, Deep Learning, NLP, SQL, Docker, and Cloud platforms.
