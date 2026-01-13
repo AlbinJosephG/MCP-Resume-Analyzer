@@ -25,19 +25,22 @@ mcp-resume-analyzer/
 
 1. Clone the repository:
 
+```bash
 git clone https://github.com/your-username/mcp-resume-analyzer.git
 cd mcp-resume-analyzer
-
+ ```
 2. Create and activate a virtual environment:
 
+```bash
 python3 -m venv .venv
 source .venv/bin/activate    # Linux / macOS
 .venv\Scripts\activate
-
+ ```
 3.Install dependencies:
 
+```bash
 pip install fastapi uvicorn PyPDF2 jinja2
-
+ ```
 ## 📂 Usage
 
 1. Prepare your resume PDF.
