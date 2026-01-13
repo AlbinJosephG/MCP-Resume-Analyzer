@@ -2,6 +2,8 @@
 A simple AI-powered resume analyzer that matches resumes against job descriptions and suggests skill improvements. This project uses MCP logic for analysis and provides a FastAPI web interface for easy interaction.
 
 ## Project Structure
+
+```bash
 mcp-resume-analyzer/
 ├── server.py # Core MCP resume analysis logic
 ├── web.py # FastAPI backend
@@ -12,6 +14,7 @@ mcp-resume-analyzer/
 │ └── style.css # Frontend styles
 ├── .venv/ # Python virtual environment
 └── README.md
+ ```
 
 ## Features
 
